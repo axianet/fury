@@ -8,7 +8,7 @@
                 "source": {
                     "url": "git://github.com/axianet/fury.git",
                     "type": "git",
-                    "reference": "dev-master"
+                    "reference": "master"
                 },
                 "autoload": {
                     "psr-0" : {
