@@ -1,19 +1,21 @@
-"repositories": [
-    {
-        "type": "package",
-        "package": {
-            "name": "axianet/fury",
-            "version": "dev-master",
-            "source": {
-                "url": "git://github.com/axianet/fury.git",
-                "type": "git",
-                "reference": "dev-master"
-            },
-            "autoload": {
-                "psr-0" : {
-                    "axianet\\fury" : "src"
+{
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "axianet/fury",
+                "version": "dev-master",
+                "source": {
+                    "url": "git://github.com/axianet/fury.git",
+                    "type": "git",
+                    "reference": "dev-master"
+                },
+                "autoload": {
+                    "psr-0" : {
+                        "axianet\\fury" : "src"
+                    }
                 }
             }
         }
-    }
-],
+    ]
+}
