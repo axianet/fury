@@ -1,8 +1,8 @@
 {
     "name": "axianet/fury",
     "autoload": {
-        "psr-0" : {
-            "axianet\\fury" : "src"
+        "psr-4" : {
+            "axianet\\fury" : "/"
         }
     }
 }
