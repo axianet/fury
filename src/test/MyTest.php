@@ -1,5 +1,5 @@
 <?php 
-    namespace vendor\axianet\fury\test;
+    namespace axianet\fury\test;
 
     class MyTest
     {

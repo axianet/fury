@@ -1,8 +1,8 @@
 <?php 
-    namespace vendor\axianet\fury\controllers;
+    namespace axianet\fury\controllers;
 
     use yii\web\Controller;
-    use vendor\axianet\fury\test\myTest;
+    use axianet\fury\test\myTest;
 
     class DefaultController extends Controller
     {

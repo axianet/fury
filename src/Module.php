@@ -1,5 +1,5 @@
 <?php 
-    namespace vendor\axianet\fury;
+    namespace axianet\fury;
 
     class Module extends \yii\base\Module
     {
